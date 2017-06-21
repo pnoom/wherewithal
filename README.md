@@ -1,4 +1,4 @@
-#Wherewithal
+# Wherewithal
 
 A trivial library to provide a portable with-all-slots macro for CLOS objects.
 Relies on the MOP for portability.
